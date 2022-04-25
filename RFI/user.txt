@@ -1,0 +1,5 @@
+<?php
+$output = system('ls');
+echo "<p>username:$output</p>";
+?>
+
